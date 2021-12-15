@@ -12,3 +12,21 @@
     border-radius: 50%;
     
 }
+
+.revc{
+   border-radius: 20px;
+}
+
+.contact img{
+     
+    max-width: 60px;
+    margin-right: 25px;
+    
+    
+
+}
+
+.contact img:hover{
+    background-color: white;
+    border-radius: 20px;
+}
