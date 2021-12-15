@@ -5,3 +5,10 @@
     
 
 }
+
+
+.botphoto img{
+    max-width: 150%;
+    border-radius: 50%;
+    
+}
